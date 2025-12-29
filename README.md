@@ -17,7 +17,6 @@
 <a href="https://github.com/Rara212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rara212" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Mutya Qurratu'ayuni Mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mutya Qurratu'ayuni Mustafa" height="30" width="40" /></a>
 <a href="https://kaggle.com/mutyaqurratuayuni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mutyaqurratuayuni" height="30" width="40" /></a>
-<a href="https://twitter.com/mutyaqurratu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mutyaqurratu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
